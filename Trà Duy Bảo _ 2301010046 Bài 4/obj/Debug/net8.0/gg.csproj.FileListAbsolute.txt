@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\gg\obj\Debug\net8.0\gg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\gg\obj\Debug\net8.0\gg.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\gg\obj\Debug\net8.0\gg.AssemblyInfo.cs
+C:\Users\Admin\source\repos\gg\obj\Debug\net8.0\gg.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\gg\obj\Debug\net8.0\gg.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\gg\obj\Debug\net8.0\gg.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\gg\obj\Debug\net8.0\gg.RazorAssemblyInfo.cs
